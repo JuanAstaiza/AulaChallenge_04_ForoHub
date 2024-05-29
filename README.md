@@ -42,14 +42,6 @@ El proyecto utiliza las siguientes tecnologías y herramientas:
 - **🔑 [Token JWT](https://jwt.io/)**: Utilizado para la autenticación de usuarios.
 - **⚡ [Visual Studio Code - Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)**: Herramienta para probar y depurar la API REST.
 
-## 🛠️ Instalación y Configuración
-
-1. **Clonar el repositorio**:
-   ```sh
-   git clone https://github.com/tu-usuario/foro-alura-challengeone.git
-   cd foro-alura-challengeone
-
-
 
 ![image](https://github.com/JuanAstaiza/AulaChallenge_04_ForoHub/assets/60941887/53b6c44e-6afb-4d49-a353-ae907f58aaf8)
 
